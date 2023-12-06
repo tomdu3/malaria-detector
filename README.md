@@ -1,3 +1,5 @@
+[RMD Link to walkthrough](https://github.com/Code-Institute-Org/WalkthroughProject01)
+
 ## How to use this repo
 
 1. Fork this repo and copy the https URL of your forked Walkthrough01 repo
@@ -110,3 +112,4 @@ As a Data Analyst from Code Institute Consulting, you are requested by the Healt
 - Label Frequencies for Train, Validation and Test Sets
 - Model History - Accuracy and Losses
 - Model evaluation result
+
